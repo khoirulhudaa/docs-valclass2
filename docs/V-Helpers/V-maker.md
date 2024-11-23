@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
+title: V-maker
 ---
 
-# Create a Document
 
 Documents are **groups of pages** connected through:
 
