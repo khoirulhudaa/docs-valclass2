@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Valclass Template
+title: V-Template
 ---
 
 import {ClipboardIcon} from 'hugeicons-react';

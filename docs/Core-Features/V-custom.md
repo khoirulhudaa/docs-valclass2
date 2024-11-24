@@ -1,11 +1,11 @@
 ---
-sidebar_position: 1
-title: V-navbar
+sidebar_position: 2
+title: V-Custom
 ---
 
-import {AiMagicIcon} from 'hugeicons-react';
+import {PenTool03Icon} from 'hugeicons-react';
 
-# V-navbar <AiMagicIcon className='icon' />
+# V-custom <PenTool03Icon className='icon' />
 
 Specifies the value of the class in valclass
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Valclass Unite
+title: V-Unite
 ---
 
 import {FlowConnectionIcon} from 'hugeicons-react';
