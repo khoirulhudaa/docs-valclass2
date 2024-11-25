@@ -1,6 +1,6 @@
 ---
 sidebar_position: 14
-title: Helper-Time
+title:  "Help: Time"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -11,7 +11,7 @@ Generate sequence of numbers automatically.
 
 Create your time feature instantly using the `v-helper` valclass.
 
-## Table list mode
+## Table list times
 
 | Class name  | Type | Properties |
 |-------------|------|------------|

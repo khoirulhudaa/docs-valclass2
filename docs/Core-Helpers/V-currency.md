@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-title: Helper-Currency
+title: "Help: Currency"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -18,7 +18,7 @@ Create your currency feature instantly using the `v-helper` valclass.
 |---------------------|
 | `v-currency`     |
 
-The table above presents several types of currency with different variants, tailored to various conditions and needs.
+The table above presents several types of currency.
 
 ``` jsx title="index.html"
 // result (Rp.50.000)

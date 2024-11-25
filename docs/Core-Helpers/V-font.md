@@ -1,6 +1,6 @@
 ---
 sidebar_position: 15
-title: Helper-Font
+title: "Help: Font"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -12,7 +12,7 @@ import {AiMagicIcon} from 'hugeicons-react';
 Create your font feature instantly using the `v-helper` valclass.
 
 
-## Table list font
+## Table list fonts
 
 | Class name  | Properties |
 |---------------------|-------------------|

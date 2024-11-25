@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
-title: Valclass Alert
+title: "Comp: Alert"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
 
-# V-alert <AiMagicIcon className='icon' />
+# Component-alert <AiMagicIcon className='icon' />
 
 Utilities to create alert components.
 

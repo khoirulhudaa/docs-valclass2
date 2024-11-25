@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-title: Helper-load
+title:  "Help: Load"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -11,7 +11,7 @@ Utilities for animating elements loading or proccess with CSS animations.
 
 Create your load feature instantly using the `v-helper` valclass.
 
-## Table list mode
+## Table list loads
 
 | Class name  | Properties |
 |---------------------|-------------------|
@@ -23,6 +23,7 @@ The table above presents several types of loads with different variants.
 
 ## Spin load
 !['load1'](/img/load1.png)
+
 ``` jsx title="index.html"
 <div> class="v-overlay">
     <div class="v-loading v-loading2"></div>

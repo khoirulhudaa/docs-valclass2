@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: Helper-Increment
+title: "Help: Increment"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -10,6 +10,14 @@ import {AiMagicIcon} from 'hugeicons-react';
 Generate sequence of numbers automatically.
 
 Create your increment feature instantly using the `v-helper` valclass.
+
+## Table list increment
+
+| Class name |
+|---------------|
+| `v-increment`|
+
+The table above presents several types of increment.
 
 ## Increment results
 !['image-download'](/img/table1.png)

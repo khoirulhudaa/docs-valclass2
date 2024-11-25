@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Helper-Display-Break
+title: "Help: Display-break"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -11,6 +11,7 @@ Alert which shows the network status of your device data.
 
 Create your display-break feature instantly using the `v-helper` valclass.
 
+## Table display-breaks
 
 | Class name |
 |---------------------|

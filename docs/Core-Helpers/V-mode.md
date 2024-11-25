@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-title: Helper-Mode
+title:  "Help: Mode"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -12,7 +12,7 @@ Provide two different models on the website.
 Create your mode feature instantly using the `v-helper` valclass.
 
 
-## Table list mode
+## Table list modes
 
 | Class name  | Properties |
 |---------------------|-------------------|

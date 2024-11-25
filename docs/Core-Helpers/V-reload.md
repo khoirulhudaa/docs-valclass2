@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-title: Helper-Reload
+title:  "Help: Reload"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -11,13 +11,13 @@ Utilities for animating elements reloading or proccess with CSS animations.
 
 Create your reload feature instantly using the `v-helper` valclass.
 
-## Table list mode
+## Table list reloads
 
 | Class name |
 |---------------|
 | `v-reload-web`|
 
-The table above presents several types of reload with different variants.
+The table above presents several types of reloads with different variants.
 
 ## Spin reload
 !['reload'](/img/reload.png)

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Helper-Responsive
+title:  "Help: Responsive"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -11,7 +11,7 @@ Generate sequence of numbers automatically.
 
 Create your responsive feature instantly using the `v-helper` valclass.
 
-## Table list mode
+## Table list sizes
 
 | Class name  | Type | Properties |
 |-------------|------|------------|
@@ -20,6 +20,6 @@ Create your responsive feature instantly using the `v-helper` valclass.
 | `c-`     | `Normal size` | `(min-width: 900px) and (max-width: 1920px)` |
 | `pc-`     | `PC size` | `(min-width: 1920px)` |
 
-The table above presents several types of responsives with different variants.
+The table above presents several types of sizes with different variants.
 
 !['image-responsive'](/img/responsive.png)

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-title: Helper-Media
+title:  "Help: Media"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -11,14 +11,14 @@ Generate sequence of numbers automatically.
 
 Create your media feature instantly using the `v-helper` valclass.
 
-## Table list mode
+## Table list medias
 
 | Class name  | Properties |
 |---------------------|-------------------|
 | `v-media + v-play + v-pause + v-btn	`      | `play and pause music` | 
 | `v-range + v-field + v-value + left + right + v-volume	`     | `setting volume music` | 
 
-The table above presents several types of media with different variants.
+The table above presents several types of medias with different variants.
 
 ## Play & pause
 ``` jsx title="index.html"

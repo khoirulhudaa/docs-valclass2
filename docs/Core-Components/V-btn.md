@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
-title: Valclass Btn
+title: "Comp: Btn"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
 
-# V-btn <AiMagicIcon className='icon' />
+# Component-btn <AiMagicIcon className='icon' />
 
 Utility for creating button component.
 

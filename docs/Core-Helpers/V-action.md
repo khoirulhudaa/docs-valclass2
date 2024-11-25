@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-title: Helper-Action
+title: "Help: Action"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -12,7 +12,7 @@ Click an element to create a light animation.
 Create your action feature instantly using the `v-helper` valclass.
 
 
-## Table list action
+## Table list actions
 
 | Class name  | Properties |
 |---------------------|-------------------|
@@ -23,7 +23,7 @@ Create your action feature instantly using the `v-helper` valclass.
 | `v-hover-pulse	`     | `(from) => transition: 0.3s; opacity: 1; (to) => transition: 0.3s; opacity: 0.5;` | 
 | `v-hover-pulse	`     | `(from) => transition: 0.3s; opacity: 1; (to) => transition: 0.3s; opacity: 0.5;` | 
 
-The table above presents several types of alerts with different variants, tailored to various conditions and needs.
+The table above presents several types of actions with different variants.
 
 ## (Click) - Scale animation
 ``` jsx title="index.html"

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-title: Helper-Office
+title:  "Help: Office"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -12,7 +12,7 @@ import {AiMagicIcon} from 'hugeicons-react';
 Create your office feature instantly using the `v-helper` valclass.
 
 
-## Table list office
+## Table list offices
 
 | Class name (1)  | Class name (2) |
 |---------------------|-------------------|
@@ -20,7 +20,7 @@ Create your office feature instantly using the `v-helper` valclass.
 | `v-office-word`     | `v-template-word` | 
 | `v-office-pdf`     | `v-template-pdf` | 
 
-The table above presents several types of alerts with different variants, tailored to various conditions and needs.
+The table above presents several types of offices with different variants.
 
 ## Download results
 !['image-download'](/img/download.png)

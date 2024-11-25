@@ -1,20 +1,16 @@
 ---
 sidebar_position: 3
-title: V-Maker
+title: "Feat: Maker"
 ---
 
 
 import {FlowSquareIcon} from 'hugeicons-react';
 
-# V-maker <FlowSquareIcon className='icon' />
+# Feature-maker <FlowSquareIcon className='icon' />
 
 Make your own utilities as you wish
 
 Now you can create your own class names, shorten them, or make them unique. Enjoy the ease of accessing and expressing your class names!
-
----
-
-However, before doing that, you need to first add a new group class.
 
 ## Create: v-maker-config.js
 

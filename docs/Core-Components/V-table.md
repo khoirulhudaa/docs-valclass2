@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-title: Valclass Table
+title: "Comp: Table"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
 
-# V-table <AiMagicIcon className='icon' />
+# Component-table <AiMagicIcon className='icon' />
 
 Utilities to create table components.
 

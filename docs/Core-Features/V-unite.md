@@ -1,19 +1,15 @@
 ---
 sidebar_position: 4
-title: V-Unite
+title: "Feat: Unite"
 ---
 
 import {FlowConnectionIcon} from 'hugeicons-react';
 
-# V-unite <FlowConnectionIcon className='icon' />
+# Feature-unite <FlowConnectionIcon className='icon' />
 
 Unite multiple utilities in one variable
 
 You can now avoid using classes repeatedly for a component with the same tedious style. There's no need to enter the class multiple times when you can combine them into a single variable.
-
----
-
-However, before doing that, you need to first add a new group class.
 
 ## Create: v-unite-config.js
 

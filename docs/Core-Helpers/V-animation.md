@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Helper-Animation
+title:  "Help: Animation"
 ---
 
 import {AiMagicIcon} from 'hugeicons-react';
@@ -12,7 +12,7 @@ import {AiMagicIcon} from 'hugeicons-react';
 Create your animation feature instantly using the `v-helper` valclass.
 
 
-## Table list animation
+## Table list animations
 
 | Class name  | Properties |
 |---------------------|-------------------|

@@ -1,19 +1,15 @@
 ---
 sidebar_position: 2
-title: V-Custom
+title: "Feat: Custom"
 ---
 
 import {PenTool03Icon} from 'hugeicons-react';
 
-# V-custom <PenTool03Icon className='icon' />
+# Feature-custom <PenTool03Icon className='icon' />
 
 Specifies the value of the class in valclass
 
 You can specify the value of a CSS property using the utility classes defined in valclass. The last word of the utility class name will be used as the value for the corresponding CSS property.
-
----
-
-However, there is a slight difference when writing the names of utilities in this custom mode.
 
 ## Usage: additional vocabulary
 

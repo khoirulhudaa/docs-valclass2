@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
-title: V-Template
+title: "Feat: Template"
 ---
 
 import {ClipboardIcon} from 'hugeicons-react';
 import Button from '@site/src/components/Button';
 
-# V-template <ClipboardIcon className='icon' /> 
+# Feature-template <ClipboardIcon className='icon' /> 
 
 template build with pure valclass framework.
 

@@ -1,9 +1,11 @@
 ---
 sidebar_position: 1
-title: Get Started
+title: Introduction
 ---
 
-# Introduction
+import {PackageOpenIcon} from 'hugeicons-react';
+
+# The Introduction <PackageOpenIcon className='icon' />
 
 Welcome to the CSS Framework documentation - Valclass! This website will give you an introduction to 90% of Valclass concepts that might encourage you to use it every day.
 
@@ -11,8 +13,8 @@ Welcome to the CSS Framework documentation - Valclass! This website will give yo
 
 Get started by **getting a cdn link**.
 
-:::info
-Or **try a better Valclass experience** by **[downloading it yourself](/docs/download)**.
+:::danger
+It is **highly recommended** that you have already **mastered** vanilla CSS beforehand.
 :::
 
 ### What you'll need
@@ -33,7 +35,11 @@ https://cdn.jsdelivr.net/gh/valclassdevelop/valclass/valclass.js
 https://cdn.jsdelivr.net/gh/valclassdevelop/valclass/component-features.js
 ```
 
-Place all these CDN links before the `</body>` tag inside the `<script>`.
+:::info
+Or **try a better Valclass experience** by **[downloading it yourself](/docs/download)**.
+:::
+
+`Note` Place all these CDN links before the `</body>` tag inside the `<script>`.
 
 ## Template Code
 
